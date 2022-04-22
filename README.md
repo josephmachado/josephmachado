@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joseph Kevin Machado</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">I write about data engineering | data modeling | software engineering | system design</h3>
 
 <p align="left"> <a href="https://twitter.com/@startdataeng" target="blank"><img src="https://img.shields.io/twitter/follow/@startdataeng?logo=twitter&style=for-the-badge" alt="@startdataeng" /></a> </p>
