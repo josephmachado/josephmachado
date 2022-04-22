@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/@startdataeng" target="blank"><img src="https://img.shields.io/twitter/follow/@startdataeng?logo=twitter&style=for-the-badge" alt="@startdataeng" /></a> </p>
 
-- 🔭 I’m currently working on [Start data engineering](https://www.startdataengineering.com/)
+- 🔭 I write data engineering articles on [Start data engineering](https://www.startdataengineering.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/josephmachado](https://github.com/josephmachado)
 
